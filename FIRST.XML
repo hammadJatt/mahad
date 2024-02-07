@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<students>
+        <student id="1">
+            <name>Ali jio</name>
+            <vote>chahat fateh ali khan</vote> 
+        </student>
+                <student id="2">
+            <name>junaid afghani</name>
+            <vote>ppp</vote> 
+        </student>
+                <student id="3">
+            <name>tabish malang</name>
+            <vote>pti</vote> 
+        </student>
+         <student id="4">
+            <name>murtaza shah</name>
+            <vote>pti</vote> 
+        </student>
+         <student id="5">
+            <name>sufi malang</name>
+            <vote>pmln</vote> 
+        </student>
+         <student id="6">
+            <name>danish</name>
+            <vote>mqm</vote> 
+        </student>
+        <CFAK>1</CFAK>
+        <PTI>2</PTI>
+        <PPP>1</PPP>
+        <PMLN>1</PMLN>
+        <MQM>1</MQM>
+</students>
